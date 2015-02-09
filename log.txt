@@ -1,0 +1,12 @@
+Start: Sat, 7 Feb 2015 14:42:26 -0800
+End: Sat, 7 Feb 2015 20:42:26 -0800
+Tasks: Coded and finished multtable portion of the assignment. It took awhile to get everything setup to test and also had some persistent 
+debugging issues but finally managed to get everything working correctly
+
+Start: Sun, 8 Feb 2015 16:30:26 -0800
+End: Sun, 8 Feb 2015 18:32:26 -0800
+Tasks: Worked on loopback and almost got it finished. Just a few formatting issues
+
+Start: Sun, 8 Feb 2015 19:10:26 -0800
+End: Sun, 8 Feb 2015 18:32:26 -0800
+Tasks: Finished loopback
