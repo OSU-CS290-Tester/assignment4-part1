@@ -8,5 +8,10 @@ End: Sun, 8 Feb 2015 18:32:26 -0800
 Tasks: Worked on loopback and almost got it finished. Just a few formatting issues
 
 Start: Sun, 8 Feb 2015 19:10:26 -0800
-End: Sun, 8 Feb 2015 18:32:26 -0800
-Tasks: Finished loopback
+End: Sun, 8 Feb 2015 22:52 -0800
+Tasks: Finished loopback and started on login. Got the basic shell of login coded but left with the issue of updating the counter
+to keep track of the number of visits
+
+Start: Mon, 9 Feb 2015 10:00:26 -0800
+End: Mon, 9 Feb 2015 12:00 -0800
+Tasks: Finished debugging login.php. Solved the issue of keeping track of the counter.
